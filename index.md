@@ -39,7 +39,29 @@ mastheadBG: >-
 
 <section id="contact" style="background-image:url('assets/img/map-image.png?h=dde716a63e31eca254a82a274d4f56c0');"><div class="container"><div class="row"><div class="col-lg-12 text-center"><h2 class="text-uppercase section-heading">Contact Us</h2><h3 class="text-muted section-subheading">Lorem ipsum dolor sit amet consectetur.</h3></div></div><div class="row"><div class="col-lg-12"><form id="contactForm" name="contactForm" novalidate="novalidate"><div class="form-row"><div class="col-md-6"><div class="form-group"><input class="form-control" type="text" id="name" placeholder="Your Name *" required="" /></div><div class="form-group"><input class="form-control" type="email" id="email" placeholder="Your Email *" required="" /></div><div class="form-group"><input class="form-control" type="tel" placeholder="Your Phone *" required="" /></div></div><div class="col-md-6"><div class="form-group"><textarea class="form-control" id="message" placeholder="Your Message *" required=""></textarea></div></div><div class="clearfix">&nbsp;</div><div class="col-lg-12 text-center"><div id="success">&nbsp;</div><button class="btn btn-primary btn-xl text-uppercase" id="sendMessageButton" type="submit">Send Message</button></div></div></form></div></div></div></section>
 
-<footer><div class="container"><div class="row"><div class="col-md-4"><span class="copyright">Copyright © Brand 2021</span></div><div class="col-md-4"><a href="#" class="cc-active">Terms of Use</a></div></div></div></footer>
+<footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4"><span class="copyright">Copyright&nbsp;© Brand 2021</span></div>
+                <div class="col-md-4">
+                    <ul class="list-inline social-buttons">
+                        <li class="list-inline-item editable" data-cms-source="/index.html" data-cms-index="11"><a href="#" class="cc-active"><i class="fa fa-twitter"></i></a></li>
+                        <li class="list-inline-item editable" data-cms-source="/index.html" data-cms-index="12"><a href="#" class="cc-active"><i class="fa fa-facebook"></i></a></li>
+                        <li class="list-inline-item editable" data-cms-source="/index.html" data-cms-index="13"><a href="#" class="cc-active"><i class="fa fa-linkedin"></i></a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline quicklinks">
+                        <li class="list-inline-item"></li>
+        
+                        <li class="list-inline-item editable" data-cms-source="/index.html" data-cms-index="14"><a href="#" class="cc-active">Terms of Use</a></li>
+                        </ul>
+                    
+                </div>
+            </div>
+            </div>
+        
+    </footer>
 
 <div class="modal fade text-center portfolio-modal" role="dialog" tabindex="-1" id="portfolioModal1"><div class="modal-dialog modal-lg" role="document"><div class="modal-content"><div class="container"><div class="row"><div class="col-lg-8 mx-auto"><div class="modal-body"><h2 class="text-uppercase">Project Name</h2><p class="text-muted item-intro">Lorem ipsum dolor sit amet consectetur.</p><img class="img-fluid d-block mx-auto" src="assets/img/portfolio/1-full.jpg?h=5dd7d2e943b04419fd49b39ac9311e2d" /><p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p><ul class="list-unstyled"><li>Date: January 2017</li><li>Client: Threads</li><li>Category: Illustration</li></ul><button class="btn btn-primary" data-dismiss="modal" type="button"><span>&nbsp;Close Project</span></button></div></div></div></div></div></div></div>
 
