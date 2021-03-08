@@ -1,7 +1,7 @@
 ---
 mastheadBG: https://res.cloudinary.com/dklongley/image/upload/v1553773514/AG2/14858410-beautiful-portofino-liguria-italy.jpg
 ---
-<!DOCTYPE html>
+
 <html>
 
 <head>
