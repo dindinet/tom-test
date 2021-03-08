@@ -31,7 +31,7 @@ mastheadBG: https://res.cloudinary.com/dklongley/image/upload/v1553773514/AG2/14
             </div>
         </div>
     </nav>
-    <header class="masthead" style="background-image:url('{{ page.mastheadBG }}');background-size: cover;"> {{ page.mastheadBG }} <!-- assets/img/header-bg.jpg?h=b8466c0919756b37f84bf6f4883412b5 -->
+    <header class="masthead" style="background-image:url('{{ page.mastheadBG }}');background-size: cover;"> <!-- assets/img/header-bg.jpg?h=b8466c0919756b37f84bf6f4883412b5 -->
         <div class="container  editable">
             <div class="intro-text">
                 <div class="intro-lead-in"><span>Welcome To My World!</span></div>
