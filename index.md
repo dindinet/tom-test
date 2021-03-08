@@ -1,6 +1,6 @@
 ---
 mastheadBG: >-
-  https://res.cloudinary.com/dklongley/image/upload/w_1905,h_600,c_fill/AG2/portofino8.jpg
+  https://res.cloudinary.com/dklongley/image/upload/w_1905,h_1000,c_fill/AG2/portofino8.jpg
 ---
 
 <meta charset="utf-8" />
