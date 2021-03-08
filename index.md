@@ -7,7 +7,7 @@ mastheadBG: >-
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
 
-<base href="https://dindinet.github.io/tom-test/" target="_blank" />
+<!-- <base href="https://dindinet.github.io/tom-test/" target="_blank" /> -->
 
 <title></title>
 
