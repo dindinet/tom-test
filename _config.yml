@@ -1,2 +1,5 @@
 title: Tom Test
 description: A quick and easy 1 page website.
+
+plugins:
+  - jekyll-seo-tag
